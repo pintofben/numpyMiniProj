@@ -1,1 +1,3 @@
+# Ben Pintof
+# Scientific Computing
 # Numpy/Matplotlib Mini Project
